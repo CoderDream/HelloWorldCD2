@@ -14,6 +14,7 @@
 		3F7CBE701596CBFD00FE3C92 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F7CBE6F1596CBFD00FE3C92 /* main.m */; };
 		3F7CBE741596CBFD00FE3C92 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F7CBE731596CBFD00FE3C92 /* AppDelegate.m */; };
 		3F7CBE7C1596CCE700FE3C92 /* BookController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F7CBE7B1596CCE700FE3C92 /* BookController.m */; };
+		3FB48E841596D0B800F59649 /* TestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FB48E831596D0B800F59649 /* TestController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		3F7CBE731596CBFD00FE3C92 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		3F7CBE7A1596CCE700FE3C92 /* BookController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BookController.h; sourceTree = "<group>"; };
 		3F7CBE7B1596CCE700FE3C92 /* BookController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BookController.m; sourceTree = "<group>"; };
+		3FB48E821596D0B800F59649 /* TestController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestController.h; sourceTree = "<group>"; };
+		3FB48E831596D0B800F59649 /* TestController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +83,8 @@
 				3F7CBE6A1596CBFD00FE3C92 /* Supporting Files */,
 				3F7CBE7A1596CCE700FE3C92 /* BookController.h */,
 				3F7CBE7B1596CCE700FE3C92 /* BookController.m */,
+				3FB48E821596D0B800F59649 /* TestController.h */,
+				3FB48E831596D0B800F59649 /* TestController.m */,
 			);
 			path = HelloWorldCD2;
 			sourceTree = "<group>";
@@ -160,6 +165,7 @@
 				3F7CBE701596CBFD00FE3C92 /* main.m in Sources */,
 				3F7CBE741596CBFD00FE3C92 /* AppDelegate.m in Sources */,
 				3F7CBE7C1596CCE700FE3C92 /* BookController.m in Sources */,
+				3FB48E841596D0B800F59649 /* TestController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +267,7 @@
 				3F7CBE791596CBFD00FE3C92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
